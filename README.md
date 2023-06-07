@@ -29,4 +29,6 @@ Cette application utilise l'API de The Movie Database (TMDB) pour afficher les f
 
 ## Auteur
 
+BAH Thierno
+
 N'hésitez pas à contribuer à ce projet en ouvrant une Pull Request ou en signalant des problèmes dans la section "Issues".
